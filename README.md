@@ -1,5 +1,5 @@
 <h1>Enter The Dungeon</h1>
-A text based RGP written in Python<br>
+A text based RPG written in Python<br>
 Players choose from a list of commands in order to explore a dungeon and defeat the Goblins<br>
 Collect all 20 gold coins and you win the game!
 
